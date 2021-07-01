@@ -6,8 +6,8 @@ A solution: https://sites.math.rutgers.edu/~ajl213/CLRS/Ch5.pdf
 
 My solution: 
 
-![answer](https://user-images.githubusercontent.com/62892813/123658859-62a6e000-d832-11eb-92b8-5fe9b146f430.JPG)
+![ex](https://user-images.githubusercontent.com/62892813/124136340-fe2f8f00-da84-11eb-8c48-42a8fce9a433.JPG)
 
 Plot: 
 
-![plot](https://user-images.githubusercontent.com/62892813/123656388-296d7080-d830-11eb-9288-a5b75f9d4c7e.png)
+![fig](https://user-images.githubusercontent.com/62892813/124136367-025bac80-da85-11eb-95f4-e158252f88e4.png)
